@@ -1,4 +1,4 @@
-# Jurassic-Park-1337-The-Hack
+# Jurassic Park 1337: The Hack
 ios tweak for that mobile game. 
 
 this is better than the one from iosgods vip because I wrote it 
