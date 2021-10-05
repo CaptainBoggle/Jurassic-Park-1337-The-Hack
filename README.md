@@ -5,11 +5,13 @@ this is better than the one from iosgods vip because I wrote it
 
 features:
 
-// 100% evolution success rate
-// Access hidden and locked events
-// Always get lots of trophies on tournament win
-// Always offer free trial after opening mystery pack
-// Allow any level dino in level restricted battles
-// Infinity vip
-// trade hack maybe
-// nothing else at all
+- [x] // 100% evolution success rate
+- [x] // Access hidden and locked events
+- [x] // Always get lots of trophies on tournament win
+- [x] // Always offer free trial after opening mystery pack
+- [x] // Allow any level dino in level restricted battles
+- [x] // Infinity vip
+- [x] // trade hack maybe
+- [] // infinite damage in battle
+- [] // no dino max level
+- [] // infinite resources
