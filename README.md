@@ -14,4 +14,4 @@ features:
 - [x] // trade hack maybe
 - [ ] // infinite damage in battle
 - [ ] // no dino max level
-- [ ] // infinite resources
+- [ ] // infinite resources (use Satella 4 now)
