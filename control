@@ -1,0 +1,9 @@
+Package: com.yourcompany.dinos
+Name: dinos
+Version: 1.0.51
+Architecture: iphoneos-arm
+Description: An awesome JWTG hack!
+Maintainer: captainboggle
+Author: captainboggle
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
