@@ -12,6 +12,6 @@ features:
 - [x] // Allow any level dino in level restricted battles
 - [x] // Infinity vip
 - [x] // trade hack maybe
-- [] // infinite damage in battle
-- [] // no dino max level
-- [] // infinite resources
+- [ ] // infinite damage in battle
+- [ ] // no dino max level
+- [ ] // infinite resources
