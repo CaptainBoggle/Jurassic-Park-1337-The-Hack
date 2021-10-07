@@ -3,8 +3,6 @@ ios tweak for that mobile game.
 
 this is better than the one from iosgods vip because I wrote it 
 
-the game is called Jurassic World: The Game for people googling this.
-
 features:
 
 - [x] // 100% evolution success rate
